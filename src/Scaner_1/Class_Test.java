@@ -14,5 +14,7 @@ public class Class_Test
         s.checkNumber();
         s.printSomsing();
 
+        /**/
+
     }
 }
